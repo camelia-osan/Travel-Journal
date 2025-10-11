@@ -18,3 +18,13 @@ This project demonstrates the use of reusable React components, mapping through 
 ### Tools
 * CSS & Flexbox - styling and layout
 * React - reusable functional components 
+
+
+### Screenshots
+**Desktop View**
+
+![Desktop View](screenshots/Desktop.PNG)
+
+**Mobile View**  
+
+![Mobile View](screenshots/Mobile.PNG)
