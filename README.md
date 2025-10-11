@@ -3,9 +3,9 @@ Frontend Development, HTML, CSS, JavaScript and React
 
 
 ### Description
-A small travel journal web app built with React. The app displays travel destinations dynamically using reusable components and a structured data file. It’s responsive across different screen sizes, due to Flexbox and media queries.
+A small travel journal web app built with React. The app displays travel destinations dynamically using reusable components and a structured data file. It’s responsive across different screen sizes, thanks to Flexbox and media queries.
 
-This project demonstrates the use of reusable React components, mapping through data, and responsive design.
+This project demonstrates the use of reusable React components, mapping through data and responsive design. It is inspired by a [Scrimba React course](https://scrimba.com/) I completed.
 
 
 ### Features
