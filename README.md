@@ -1,5 +1,5 @@
 # Travel Journal
-Frontend Development, HTML, CSS, JavaScript and React
+Frontend Development - HTML, CSS, JavaScript and React
 
 
 ### Description
@@ -9,15 +9,15 @@ This project demonstrates the use of reusable React components, mapping through 
 
 
 ### Features
-* Reusable components for travel cards, icons and other UI elements. Easily extensible.
-* Dynamically renders travel destinations from a centralized data file (*data.js*).
-* Each card displays: an image, location (name and country), link to Google Maps, activity suggestion and a text description.
+* Reusable components for travel cards, icons and other UI elements. Easily extensible;
+* Dynamically renders travel destinations from a centralized data file (*data.js*);
+* Each card displays: an image, location (name and country), link to Google Maps, activity suggestion and a text description;
 * Responsive layout for mobile, tablets and desktop.
 
 
 ### Tools
-* CSS & Flexbox - styling and layout
-* React - reusable functional components 
+* CSS & Flexbox - styling and layout;
+* React - reusable functional components.
 
 
 ### Screenshots
